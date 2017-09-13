@@ -17,3 +17,6 @@ Getting the VI to work:
 
 * load the new dependencies from subfolder
 * in xeva-init please specify your config and correction files or select automatic/semiautomatic as preferred method.
+
+
+![Screenshot of vi](Screenshot%20from%202017-09-13%2016-28-36.png)
